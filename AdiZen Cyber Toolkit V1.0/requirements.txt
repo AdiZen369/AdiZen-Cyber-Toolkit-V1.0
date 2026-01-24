@@ -1,0 +1,6 @@
+requests
+argparse
+hashlib
+socket
+pytest
+pytest-cov
